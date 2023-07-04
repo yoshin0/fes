@@ -1,10 +1,4 @@
 import streamlit as st
-import numpy as np
-import pandas as pd
-import nlplot
-import os
-import datetime
-from PIL import Image
 
 data = [[69202,"天野悠貴","B",2,2], [68206,"大西海斗","C",3,3], [67903,"加藤拓也","E",5,5], [66803,"河口淑乃","F",1,6], [67902,"北井真佑子","D",2,7], 
         [64211,"小森紀明","H",3,8], [62204,"譽田豊","I",4,9], [89003,"齊内直文","J",5,10], [69203,"範國正拓","A",1,1], [54302,"福田夏","B",2,2], 
